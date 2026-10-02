@@ -14,17 +14,6 @@ I like taking an idea that sounds slightly insane and turning it into something 
 - 🎮 Interactive experiences & simulations
 - 🛠️ Building tools I actually want to use
 
-### Currently building
-
-**JARVIS** — a private AI assistant for Windows.
-
-Voice-first.  
-Screen-aware.  
-Persistent memory.  
-PC control.  
-Automation.  
-Built to actually feel like an assistant rather than another chatbot.
-
 ### Tech
 
 ```text
