@@ -1,4 +1,4 @@
-# Hey, I'm AKwa 👋
+# Hey, I'm Akwa 👋
 
 ### Building things because I can.
 
