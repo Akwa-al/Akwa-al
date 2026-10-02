@@ -12,32 +12,26 @@ Most of what I make starts as a question I couldn't stop asking. The answer usua
 
 ### Stack
 
-Things I reach for — and why:
-
-- **TypeScript** — because runtime surprises stopped being interesting
-- **Python** — anything that touches AI, data pipelines, or "run this once" scripts that quietly became permanent
-- **React / React Native / Expo** — web and mobile from the same head
-- **Next.js** — when it needs to be an actual product
-- **Supabase** — database, auth, storage, without three different services and a deployment headache
-- **Three.js** — flat UIs bore me
-- **Ollama + local models** — runs on my machine, not rented infrastructure
-- **LLM APIs** — when the local option isn't the right call and I know why
+**TypeScript** · **Python** · **C++** · **React** · **Next.js**  
+**AI** · **Automation** · **Local Models** · **LLMs**
 
 ---
 
 ### How I build
 
-```
+```text
 idea appears
   → prototype exists within a few hours
   → it breaks in an interesting way
-  → I find out exactly why, which is better than if it worked cleanly
+  → I find out exactly why
   → rebuild with that knowledge baked in
   → ship
   → already thinking about the next one
 ```
 
-I don't build things because they follow a pattern. I build things to find out what actually works — which usually means ignoring what the "standard approach" would be and finding out the hard way why it exists.
+I build things to find out what actually works.
+
+The standard approach exists for a reason. I usually find out why after trying something else first.
 
 ---
 
