@@ -1,64 +1,52 @@
-# Hey, I'm Akwa 👋
+# Akwa
 
-### Building things because I can.
+I build things that shouldn't work until they do.
 
-focused on **AI, automation, and software**.
-
-I like taking an idea that sounds slightly insane and turning it into something that actually runs.
-
-### What I'm into
-
-- 🤖 AI agents & local models
-- 🧠 Automation & intelligent systems
-- 💻 Full-stack development
-- 🎮 Interactive experiences & simulations
-- 🛠️ Building tools I actually want to use
-
-### Tech
-
-```text
-TypeScript / JavaScript
-Python
-React / React Native
-Next.js
-Expo
-Supabase
-Three.js
-Ollama
-LLMs / AI APIs
-Git
-```
-
-### Philosophy
-
-> If I can imagine it, I'll probably try to build it.
-
-I don't particularly enjoy building things just because they're "the standard way".
-
-I build, break, rebuild, and keep going until it works.
+Most of what I make starts as a question I couldn't stop asking. The answer usually involves something running at 2am that I'm mildly surprised actually runs.
 
 ---
 
-### 🟣 Currently experimenting with AI
-
-```text
-Human idea
-     ↓
-     AI
-     ↓
-  Prototype
-     ↓
-   Break it
-     ↓
-   Fix it
-     ↓
-   Ship it
-```
-
-**Most of my repositories are experiments, prototypes, or things I'm actively turning into something bigger.**
+**Current obsessions:** AI that does real things autonomously, automation that replaces entire workflows, and whatever I'm halfway through right now that doesn't have a name yet.
 
 ---
 
-<p align="center">
-  <b>Still building.</b>
-</p>
+### Stack
+
+Things I reach for — and why:
+
+- **TypeScript** — because runtime surprises stopped being interesting
+- **Python** — anything that touches AI, data pipelines, or "run this once" scripts that quietly became permanent
+- **React / React Native / Expo** — web and mobile from the same head
+- **Next.js** — when it needs to be an actual product
+- **Supabase** — database, auth, storage, without three different services and a deployment headache
+- **Three.js** — flat UIs bore me
+- **Ollama + local models** — runs on my machine, not rented infrastructure
+- **LLM APIs** — when the local option isn't the right call and I know why
+
+---
+
+### How I build
+
+```
+idea appears
+  → prototype exists within a few hours
+  → it breaks in an interesting way
+  → I find out exactly why, which is better than if it worked cleanly
+  → rebuild with that knowledge baked in
+  → ship
+  → already thinking about the next one
+```
+
+I don't build things because they follow a pattern. I build things to find out what actually works — which usually means ignoring what the "standard approach" would be and finding out the hard way why it exists.
+
+---
+
+### Repos
+
+Most of what's here is mid-experiment, actively evolving, or something I built because nothing else did exactly what I needed.
+
+Not everything is finished. Some of it is better than it looks. Some of it is exactly as rough as it looks.
+
+---
+
+*Still in the middle of something.*
